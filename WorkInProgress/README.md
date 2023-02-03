@@ -34,7 +34,8 @@ auto
 - CONTEÚDOS
 - INFORMAÇÕES
 
-[Criando a Página Com os Detalhes do Usuário Com React](https://web.dio.me/lab/criando-a-pagina-com-os-detalhes-do-usuario-com-react/learning/dfd5c0b2-e3fe-43b2-966c-cff200c6335c)[Entendendo o Desafio](https://web.dio.me/lab/criando-a-pagina-com-os-detalhes-do-usuario-com-react/learning/43d858d1-e460-407b-b324-1a50aa1d54bc)
+- [Criando a Página Com os Detalhes do Usuário Com React](https://web.dio.me/lab/criando-a-pagina-com-os-detalhes-do-usuario-com-react/learning/dfd5c0b2-e3fe-43b2-966c-cff200c6335c)
+- [Entendendo o Desafio](https://web.dio.me/lab/criando-a-pagina-com-os-detalhes-do-usuario-com-react/learning/43d858d1-e460-407b-b324-1a50aa1d54bc)
 
 # Entendendo o Desafio
 
